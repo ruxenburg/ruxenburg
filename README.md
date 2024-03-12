@@ -16,4 +16,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ruxenburg&show_icons=true&locale=en" alt="ruxenburg" /></p>
 
-![Kaboom? Yes Rico, Kaboom. 💥](https://i.makeagif.com/media/9-29-2021/I6NONE.gif)
+<img src="https://i.makeagif.com/media/9-29-2021/I6NONE.gif" alt="Kaboom? Yes Rico, Kaboom. 💥">
