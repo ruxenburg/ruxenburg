@@ -1,17 +1,11 @@
-<h2 align="left">Hi 👋! My name is Ruxenburg and I'm a software developer from the netherlands</h2>
-
-###
+<h2 align="left">Hi 👋! My name is Ruxenburg and I'm a software developer from the Netherlands</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ruxenburg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ruxenburg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
 <img align="right" height="150" src="/imgs/Kaboom_Yes_Rico_Kaboom.gif"  />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -43,15 +37,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
 </div>
 
-###
-
-<div align="left">
-</div>
-
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/ruxenburg/ruxenburg/output/snake.svg" alt="Snake animation" />
-
-###
